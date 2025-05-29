@@ -1,0 +1,5 @@
+libraries/
+.vscode/
+.pio/
+*.pyc
+*.log

@@ -1,0 +1,9 @@
+SET(SOURCES ui_main_menu.c
+    ui_Screen3.c
+    ui.c
+    ui_comp_hook.c
+    ui_helpers.c
+    ui_events.c
+    ui_img_fujin_png.c)
+
+add_library(ui ${SOURCES})
